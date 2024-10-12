@@ -194,7 +194,7 @@ nav .navigation ul li a:hover
 /*------------- Hero section styling end --------------*/
 
 #home1 {
-	background-image: linear-gradient(rgba(9, 5, 54, 0.3), rgba(5,4,46,0.7)), url("img/2.jpg");
+	background-image: linear-gradient(rgba(9, 5, 54, 0.3), rgba(5,4,46,0.7)), url("img/22.jpg");
 	width: 100%;
 	height: 100vh;
 	background-size: cover;
@@ -257,7 +257,7 @@ nav .navigation ul li a:hover
 
 
 #home2 {
-	background-image: linear-gradient(rgba(9, 5, 54, 0.3), rgba(5,4,46,0.7)), url("img/3.jpg");
+	background-image: linear-gradient(rgba(9, 5, 54, 0.3), rgba(5,4,46,0.7)), url("img/33.jpg");
 	width: 100%;
 	height: 100vh;
 	background-size: cover;
